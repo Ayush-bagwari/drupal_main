@@ -1,0 +1,7 @@
+drupalup_form.simple_form:
+  path: '/simple-form'
+  defaults:
+    _form: '\Drupal\drupalup_form\Form\SimpleForm'
+    _title: 'Form Page'
+  requirements:
+    _permission: 'access content'

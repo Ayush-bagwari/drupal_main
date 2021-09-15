@@ -1,0 +1,5 @@
+name: DrupalBook
+description: Custom module for customizing my drupal site
+type: module
+core_version_requirement: ^8 || ^9
+package: DrupalBook

@@ -1,0 +1,13 @@
+<?php 
+/**
+ * Implements hook function here.
+ */
+
+/* function bartikssen_preprocess(&$variables,$hook)
+ {
+     if($hook = 'menu')
+     {
+     
+     }
+ }
+ */

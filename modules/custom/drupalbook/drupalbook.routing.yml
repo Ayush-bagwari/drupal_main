@@ -1,0 +1,7 @@
+drupalbook.new_list:
+  path: '/first-page'
+  defaults:
+    _controller: '\Drupal\drupalbook\Controller\FirstPageController::content'
+    _title: 'Drupal_Mod'
+  requirements:
+    _permission: 'access content'

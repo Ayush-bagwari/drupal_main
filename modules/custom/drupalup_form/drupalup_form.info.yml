@@ -1,0 +1,5 @@
+name: DrupalForm
+description: Custom module for customizing form  in drupal site
+type: module
+core_version_requirement: ^8 || ^9
+package: DrupalForm
